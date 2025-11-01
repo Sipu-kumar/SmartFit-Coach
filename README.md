@@ -35,3 +35,9 @@ You can customize the instructor credentials by setting these environment variab
 INSTRUCTOR_LOGIN_ID=your_custom_login_id
 INSTRUCTOR_PASSWORD=your_custom_password
 ```
+
+
+## 🎥 Demo Video
+
+<video src="https://github.com/Sipu-kumar/AI-Fitness-Coach-App/raw/main/videos/demo.mp4" controls width="600"></video>
+
