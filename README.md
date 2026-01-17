@@ -1,7 +1,9 @@
 🧑‍🏫 Roles in the System
    👤 User
-      --Register & login
-      --Calculate BMI
+   --Register & login
+      
+   --Calculate BMI
+      
       -- View BMI history
       --Receive assigned diet plans
       --Follow weekly meal schedules
